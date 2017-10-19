@@ -1,0 +1,3 @@
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/cmake-build-debug/CMakeFiles/Complier_Lv.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/main.cpp
+string
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/string
+iostream
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/iostream
+fstream
+/Users/lvbaiyang/Desktop/C++practise/Complier_Lv/fstream
+
